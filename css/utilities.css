@@ -1,0 +1,106 @@
+
+/* Icons */
+
+.right-arrow-icon {
+  width: 16px;
+  height: 16px;
+  margin-top: 1px;
+}
+
+.footer-icon {
+  width: 20px;
+  height: 20px;
+}
+
+a.icon-link {
+  transition: transform 200ms ease-in-out;
+}
+
+a.icon-link:hover {
+  cursor: pointer;
+  stroke-width: 5;
+  margin: 0;
+  transform: rotate(15deg);
+}
+
+
+/* Navbar Styling */
+
+.navbar {
+  width: 100%;
+  padding: 30px 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.nav-title-link {
+  color: black;
+  text-decoration: none;
+}
+
+.nav-title-link:hover {
+  text-decoration: underline;
+}
+
+/* Small devices (portrait tablets and large phones, 800px and below) */
+@media only screen and (max-width: 800px) {
+  .navbar {
+    padding: 20px 20px;
+    background-color: white
+  }
+}
+
+
+/* Button Styling */
+
+a.button {
+  padding: 8px 16px;
+  border: 3px solid #141414;
+  border-radius: 50px;
+  color: black;
+  text-decoration: none;
+  width: fit-content;
+  display: flex;
+  gap: 5px;
+  align-items: center;
+}
+
+a.button:hover {
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  cursor: pointer;
+}
+
+
+/* Footer Styling */
+
+#footer {
+  width: 100%;
+  display: flex;
+  padding: 30px 50px;
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
+}
+
+/* Link Styling */
+a.no-underline {
+  text-decoration: none;
+  color: black
+}
+
+a.no-underline:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+/* Small devices (portrait tablets and large phones, 800px and below) */
+@media only screen and (max-width: 800px) {
+  #footer {
+    padding: 20px 20px;
+  }
+}
