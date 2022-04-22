@@ -4,6 +4,16 @@ A template for the Unemployables who need to showcase their creative work, whate
 <br />
 <br />
 
+#### Table of Contents:
+<a href="https://github.com/whitevans-eth/unemployables-portfolio-template#about-this-template">About this template</a></br>
+<a href="https://github.com/whitevans-eth/unemployables-portfolio-template#getting-started">Getting started</a></br>
+<a href="https://github.com/whitevans-eth/unemployables-portfolio-template#how-to-customize-this-template">How to customize this template</a></br>
+&nbsp;&nbsp;&nbsp;<a href="https://github.com/whitevans-eth/unemployables-portfolio-template#creating-a-new-project-page-and-adding-it-to-the-homepage">Creating a new project page</a></br>
+&nbsp;&nbsp;&nbsp;<a href="https://github.com/whitevans-eth/unemployables-portfolio-template#adding-images-to-the-project-gallery">Adding gallery images</a></br>
+<a href="https://github.com/whitevans-eth/unemployables-portfolio-template#publishing-with-github-pages">Publishing with Github Pages</a></br>
+<br />
+<br />
+
 ## About this template
 After seeing the mission of Unemployables (https://unemployables.io/) to help people become self-employed and grow their businesses, I immediately thought about helping people build portfolios. It's something that I've helped friends with in the past and really enjoyed doing. 
 <br />
@@ -17,17 +27,19 @@ After seeing the mission of Unemployables (https://unemployables.io/) to help pe
 **If anything in the template or instructions isn't clear, let me know on Twitter: https://twitter.com/whitevans_eth**
 <br />
 <br />
+<br />
 
-## Getting Started
+## Getting started
 **If you haven't used Git / Github before, here's some guides to get you started:**
 - Basics of git: https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/
 - Forking a repository: https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository (this section & the one below)
 <br />
 
 **Template instructions:**
-1. Fork this repo and clone to your machine.
-2. Navigate to the cloned repo on your machine and open `index.html` with your browser.
-3. Open the repo folder in your favorite code editor and start editing. (Make sure to refresh the browser to see the code changes you make!)
+1. Click the `Use As Template` button above and name your new repository (it should be set to public).
+2. Clone your newly created repo to your local machine.
+3. Navigate to the cloned repo on your machine and open `index.html` with your browser.
+4. Open the repo folder in your favorite code editor and start editing. (Make sure to refresh the browser to see the code changes you make!)
 5. Publish your site by pushing your commits to your repo.
 6. Set up Github Pages (guide further down!)
 <br />
