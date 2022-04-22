@@ -31,7 +31,7 @@ This template is mobile friendly, so you won't have to worry about your site not
 ## Getting started
 **If you haven't used Git / Github before, here's some guides to get you started:**
 - Basics of git: https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/
-- Forking a repository: https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository (this section & the one below)
+- Forking a repository: https://docs.github.com/en/get-started/quickstart/fork-a-repo
 <br />
 
 **Template instructions:**
