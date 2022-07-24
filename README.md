@@ -2,7 +2,7 @@
 # Unemployables Portfolio Template
 A template for the Unemployables who need to showcase their creative work, whatever that may be.
 <br /><br />
-**Demo:** https://whitevans-eth.github.io/unemployables-portfolio-template/
+**Demo:** https://ndoherty-eth.github.io/unemployables-portfolio-template/
 <br />
 <br />
 
@@ -114,4 +114,4 @@ Github Pages allows us to host this website for free! It's pretty simple to set 
 
 ## That's it!
 Feel free to send me pictures of your portfolio website once it's up and running. Would love to see them!
-https://twitter.com/whitevans_eth
+https://twitter.com/ndoherty_eth
