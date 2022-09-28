@@ -10,7 +10,7 @@ A template for the Unemployables who need to showcase their creative work, whate
 <a href="https://github.com/ndoherty-xyz/unemployables-portfolio-template#about-this-template">About this template</a></br>
 <a href="https://github.com/ndoherty-xyz/unemployables-portfolio-template#getting-started">Getting started</a></br>
 <a href="https://github.com/ndoherty-xyz/unemployables-portfolio-template#how-to-customize-this-template">How to customize this template</a></br>
-&nbsp;&nbsp;&nbsp;<a href="https://github.com/whitevans-eth/unemployables-portfolio-template#creating-a-new-project-page-and-adding-it-to-the-homepage">Creating a new project page</a></br>
+&nbsp;&nbsp;&nbsp;<a href="https://github.com/ndoherty-xyz/unemployables-portfolio-template#creating-a-new-project-page-and-adding-it-to-the-homepage">Creating a new project page</a></br>
 &nbsp;&nbsp;&nbsp;<a href="https://github.com/ndoherty-xyz/unemployables-portfolio-template#adding-images-to-the-project-gallery">Adding gallery images</a></br>
 <a href="https://github.com/ndoherty-xyz/unemployables-portfolio-template#publishing-with-github-pages">Publishing with Github Pages</a></br>
 <br />
