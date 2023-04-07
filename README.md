@@ -114,4 +114,4 @@ Github Pages allows us to host this website for free! It's pretty simple to set 
 
 ## That's it!
 Feel free to send me pictures of your portfolio website once it's up and running. Would love to see them!
-https://twitter.com/ndoherty_eth
+https://twitter.com/ndoherty_xyz
